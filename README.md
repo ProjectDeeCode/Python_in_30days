@@ -87,6 +87,23 @@ Example: \
 a. type(10) returns <class 'int'>\
 b. type(3.14) returns <class 'float'>
 
+|Day 2| 
+| - |
+
+1. Built in Functions:
+
+a. In Python we have lots of built-in functions. Built-in functions are globally available for your use that mean you can make use of the built-in functions without importing or configuring \
+b. Some of the most commonly used Python built-in functions are the following: print(), len(), type(), int(), float(), str(), input(), list(), dict(), min(), max(), sum(), sorted(), open(), file(), help(), and dir()\
+c. Example: 
+
+input('type your name:') # it will ask user to enter their name\
+type your name: Deepak # user enters name as Deepak \
+'Deepak' # name is displayed
+
+help('keywords') # prints a list of python keywords
+
+
+
 
 
 
